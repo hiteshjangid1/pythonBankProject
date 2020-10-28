@@ -1,0 +1,1 @@
+{"Oracle": [["oracle", 3000, 600], ["ora", 7, 6000], ["aura", 14, 4000]], "Amazon": [["anzon", 30, 6000]], "Flipkart": [["flippy", 30, 4000]]}
